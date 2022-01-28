@@ -94,6 +94,7 @@ anz.kaspersky-mail.com.au
 apadlenaha.com
 .app
 appealensure.xyz
+appspot.com
 aptfulness.co
 aquatiq.online
 aqupe.work
@@ -123,6 +124,7 @@ autoauction.website
 autocharge1.icu
 autoclassifieds.website
 autotemps.icu
+axiommachinery.com
 axrteautoso.us
 ayylmao.space
 a-zlandscaping.net
@@ -323,6 +325,7 @@ consultant.com
 .consulting
 consumerexposure.xyz
 contentparty.xyz
+conteseek.com
 contrateds.xyz
 coolwebtipz.com
 copcnm.work
@@ -370,6 +373,7 @@ dealbandit.de
 dealerkit.xyz
 debtagency-be.com
 decisionform.co
+decor.co.zw
 dedeone.com
 dejting-kontakt.club
 delsubscribe.com
@@ -397,6 +401,8 @@ directivesense.co
 dishspy.xyz
 disinfectings.icu
 dizland1.icu
+dklegal.com
+dmcadmin.info
 .dog
 dolilistn.com
 domik.net
@@ -449,6 +455,7 @@ electriogenco.com
 electronics785-jp.xyz
 elegansertise.website
 elegansertis.website
+eletroinga.com.br
 elevenca.com
 elixiroferoshookup.icu
 elixirsoferos.icu
@@ -462,7 +469,9 @@ emailskymarketing.shop
 emailtracking.org
 embarrassed691-net.xyz
 emktsoumaisvolei.com.br
+empireclub.org
 enactenable.co
+encolabs.com
 endmonthnow.com
 .engineer
 .engineering
@@ -545,6 +554,7 @@ gamepro.icu
 gaminggame.icu
 gamingprogflinght.us
 garnettecaty.ru
+garnisch.com
 gbsjf.net
 gdaj.jp
 .gdn
@@ -644,6 +654,7 @@ hlthplamamericaks.us
 hlthsupplenmtvolumil.us
 holdsweet.icu
 holeclose.xyz
+hollywoodconstitucion.lge.mx
 homeshedplanforhlth.us
 homshil.cam
 honestsmoke.xyz
@@ -665,6 +676,7 @@ hunterpiece.xyz
 hvndan.work
 hwalon.work
 hyzeniccare.icu
+iamsdhw.com
 ibientek.com
 .icu
 icvbn.work
@@ -837,6 +849,7 @@ mr-kasai.org
 .mx
 .my
 .mz
+naver.com
 .net.id
 .net.np
 .network
@@ -876,9 +889,12 @@ pishroparsian.com
 .porn
 pplemail.com
 .press
+primex.co.jp
 .pro
 prowebsitedeveloper.top
 psu.edu
+ptdconsulting.co.uk
+pushkarmantraresort.com
 .pw
 pwpa-j.net
 .pyc
@@ -900,10 +916,13 @@ rockend.com.au
 .ru
 safeassure.com
 .sale
+salescorp365.com
 salonstyle.com.au
+sarvodayainfotech.com
 .sc
 .scforce.com
 .science
+sct.gob.mx
 searcheverest.info
 selectyourcoupon.com
 sendgrid.net
@@ -921,17 +940,21 @@ sewanpl.com
 sheepdogia.org
 .shoes
 .shop
+shoppingseven.com
 Simplyderma.co.uk
 .site
 .so
 softcareworld.com
+softlayer.com
 .solar
 .space
 stanford.edu
 statutulartistului.ro
+steelhawk.com.my
 .store
 strato.de
 .stream
+student.ucem.ac.uk
 .studio
 .su
 sudestecaminhoes.com.br
@@ -947,6 +970,7 @@ teletu.it
 telnor.net
 tendawifi.com
 .tennis
+tfp.co.nz
 the-boss-shop.com.au
 thetelecomshop.com.au
 tilecloud.com.au
@@ -973,6 +997,7 @@ turbo-inline.com
 ubspotemail.net
 .ug
 unionshopper.com.au
+unisg.ch
 .uno
 upzy.net
 .us
@@ -993,12 +1018,15 @@ vrzao.com
 webdesignlowcost.tech
 .website
 websitewelcome.com
+willthornes.com
 .win
 .wine
 wiseclick.com.au
 .work
 .works
 .world
+worldwideturbines.net
+wp.pl
 .ws
 .wtf
 xmission.com
@@ -1013,6 +1041,8 @@ xmssion.net.au
 yummly.com
 .za
 zeponem.de
+zhouheiya.cn
 .zip
 zoho.com
+zohocorp.com
 .zone
